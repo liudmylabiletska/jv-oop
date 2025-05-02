@@ -1,5 +1,9 @@
 package core.basesyntax;
 
+import core.basesyntax.Machine;
+import core.basesyntax.Bulldozer;
+
+
 public class Bulldozer extends Machine {
     @Override
     public void doWork() {
